@@ -8,11 +8,18 @@ kuid enne töötuba tuleks teha githubi (https://github.com/) kastuaja.
 
 ## Kuidas malli kasutada?
 
+1. vali "Fork"
+![tutorial_img_1.png](tutorial_img_1.png)
+2. Saad ise lisada repository'le nime ning vajuta _create fork_
+![img.png](tutorial_img_2.png)
+3. Peale natukest laadimist peaks ette tulema sinu uus repo.
 
 ## Repos on:
 * index.html - veebilehe HTML mall
 * script.js - JavaScripti mall
 * style.css - veeblehe CSS-i mall
-* images kaust, kus on pildid, mida index.html-is kasutatakse ning 
+* images kaust, kus on pildid, mida index.html-is kasutatakse
+* README.md koos seal kasutatavate piltidega (tutorial_img_1.png ja tutorial_img_2.png)
+* given_template.jpg, kus on kirjas, mida on vaja teha.
 
 ## Materjalid ja lingid

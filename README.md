@@ -23,3 +23,5 @@ kuid enne töötuba tuleks teha githubi (https://github.com/) kastuaja.
 * given_template.jpg, kus on kirjas, mida on vaja teha.
 
 ## Materjalid ja lingid
+- [veebileht](https://htmldoc.pages.taltech.ee/)
+- [slaidid](https://docs.google.com/presentation/d/1IIEsvgF68YxoXBrTw4Q3hZHinvBzRxxvQ3_BGsVhlcY/edit?usp=sharing)

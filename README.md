@@ -1,5 +1,7 @@
 # Veebilehe töötuba
 
+Kuidas mall välja näeb? [https://taltech-coding.github.io/html-workshop/](https://taltech-coding.github.io/html-workshop/)
+
 Tegu on repoga, mida kasutatakse TalTechi vebilehe tegemise töötoas.
 
 Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe,
@@ -16,7 +18,6 @@ kuid enne töötuba tuleks teha githubi (https://github.com/) kastuaja.
 
 ## Repos on:
 * index.html - veebilehe HTML mall
-* script.js - JavaScripti mall
 * style.css - veeblehe CSS-i mall
 * images kaust, kus on pildid, mida index.html-is kasutatakse
 * README.md koos seal kasutatavate piltidega (tutorial_img_1.png ja tutorial_img_2.png)
@@ -24,4 +25,4 @@ kuid enne töötuba tuleks teha githubi (https://github.com/) kastuaja.
 
 ## Materjalid ja lingid
 - [veebileht](https://htmldoc.pages.taltech.ee/)
-- [slaidid](https://docs.google.com/presentation/d/1IIEsvgF68YxoXBrTw4Q3hZHinvBzRxxvQ3_BGsVhlcY/edit?usp=sharing)
+- [slaidid](https://docs.google.com/presentation/d/1IIEsvgF68YxoXBrTw4Q3hZHinvBzRxxvQ3_BGsVhlcY/edit?usp=sharing) 
